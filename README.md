@@ -1,2 +1,3 @@
 Building a recommender system from the Netflix movies and TV shows data.
 This is a Capstone Project of Machine Learning (Clustering Problem) undertaken as a course submission for the curricullum of Full Stack Data Science with AlmaBetter.
+A netflix dataset was used to develop a recommender system by clustering the movies and TV shows based on viewer’s interest. The scope of this project was limited to identify the best cluster size to build a primitive recommender system. Python libraries like numpy, pandas, matplotlib, seaborn, wordcloud, ntlk (natural language toolkit), Countvectorizer, Tf-IDF Vectorizer, SnowballStemmer, KMeans and Agglomerative Clustering,
